@@ -10,6 +10,10 @@ Freelance CTO and AI engineer in Paris, ENSTA Paris graduate. I build products e
 - **[Black hole simulator](https://blackhole.maxenceleguery.net)**: real-time ray tracing of light around Schwarzschild, Kerr and Taub-NUT black holes, in a WebGL shader ([source](https://github.com/maxenceleguery/blackhole)).
 - **[jare](https://github.com/maxenceleguery/jare)**: a path tracer in C++ and CUDA with a GPU BVH.
 
+### At Podtech (Tokyo), as freelance CTO
+
+**[Buddy AI Note](https://ainote.tech)**: a memo-first daily workspace. You write your daily memo and an AI agent turns it into tasks, calendar events and email replies. I own architecture and infrastructure: a Next.js web app, an Expo mobile app and a browser extension on one Supabase + Postgres backend, a BullMQ worker fleet with a leader-elected scheduler, two-way Google / Outlook calendar sync, and GCP in Terraform.
+
 ### Research
 
 Research internship at CPHT (École polytechnique) on the quasinormal modes of Taub-NUT black holes: [report](https://bibnum.ensta.fr/9537/), [solver code](https://github.com/maxenceleguery/pre-ensta-paris), [Google Scholar](https://scholar.google.com/citations?user=RCUoocYAAAAJ).
