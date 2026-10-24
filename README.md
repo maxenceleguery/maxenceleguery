@@ -1,60 +1,19 @@
-<div align="center">
+# Maxence Leguéry
 
-# 👋🏼 Hi there! I'm Maxene Leguéry ([@maxenceleguery](https://www.maxenceleguery.net/) | [@maxenceleguery-dev](https://github.com/maxenceleguery))
+Freelance CTO and AI engineer in Paris, ENSTA Paris graduate. I build products end to end: CUDA kernels, Rust libraries, web and mobile apps.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=3000&pause=500&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer;Lead+developer)](https://git.io/typing-svg)
+### Things I built that you can use
 
-</div>
+- **[Cutforge](https://cutforge.dev)**: a video editor SDK that runs entirely in the browser. Embeds in React, Next.js, Vue or plain JS.
+- **Relevé** ([App Store](https://apps.apple.com/fr/app/relev%C3%A9-chasse-aux-routes/id6814241105), [Google Play](https://play.google.com/store/apps/details?id=net.maxenceleguery.releve)): a mobile game where you collect the roads you travel. GPS traces are map-matched with Valhalla and stored in PostGIS. Live in France.
+- **[codefold](https://github.com/maxenceleguery/codefold)**: a file reader for LLM agents that returns signatures or the public API instead of the whole file. 48 to 91% fewer tokens on real code. Rust core, published on crates.io, PyPI and npm.
+- **[Black hole simulator](https://blackhole.maxenceleguery.net)**: real-time ray tracing of light around Schwarzschild, Kerr and Taub-NUT black holes, in a WebGL shader ([source](https://github.com/maxenceleguery/blackhole)).
+- **[jare](https://github.com/maxenceleguery/jare)**: a path tracer in C++ and CUDA with a GPU BVH.
 
----
+### Research
 
-<p align="center">
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,react,nextjs,html,css,tailwind,js,ts" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,bash,fastapi,sqlite,postgres,supabase,git,github,githubactions,docker,terraform,aws,gcp" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
-  </a>
-</p>
+Research internship at CPHT (École polytechnique) on the quasinormal modes of Taub-NUT black holes: [report](https://bibnum.ensta.fr/9537/), [solver code](https://github.com/maxenceleguery/pre-ensta-paris), [Google Scholar](https://scholar.google.com/citations?user=RCUoocYAAAAJ).
 
-<div align="center">
-  
-| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** |
-| :---: | :---: | :---: |
-| Python (FastAPI) | NextJS | React,<br>CSS (Tailwind)
-  
-</div>
+### Contact
 
----
-
-<div align="center">
-  <a href="https://github.com/maxenceleguery?tab=repositories">
-    <img 
-      style="height: 200px; width:355px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=maxenceleguery&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true" />
-  </a>
-  <a href="https://github.com/maxenceleguery?tab=repositories">
-    <img
-      style="height: 200px; width:355px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api/top-langs/?username=maxenceleguery&size_weight=0.1&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,dockerfile,cuda,makefile,cmake,zig,vim%script,glsl,smalry"
-      />
-  </a>
-  <div style="height:10px;"></div>
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-leguery)
-
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=fr&authuser=2&user=RCUoocYAAAAJ)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=maxenceleguery.readme)
-
-</div>
+[maxenceleguery.net](https://www.maxenceleguery.net) · [LinkedIn](https://www.linkedin.com/in/maxence-leguery)
